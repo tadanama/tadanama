@@ -1,4 +1,4 @@
-# 💫 About Me
+# 💫 Hai and Assalamualaikum everyone! I am Syakir. Nice to meet you
 🧑🏼‍💻 Full-stack developer<br>🧑🏼‍🎓 Graduated with a Diploma in Computer Science<br>🔐 Interested in full-stack development and cybersecurity
 
 
